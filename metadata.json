@@ -1,0 +1,5 @@
+{
+  "name": "x9Car Dealership Management",
+  "description": "A modern web application for managing a car dealership, including employees, clients, inventory, and sales. Built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
